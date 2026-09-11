@@ -5,7 +5,7 @@ export const portfolioData = {
     titleTagline: "Building scalable server-side systems, secure APIs & optimized databases",
     bio: "Passionate Back End Developer specialized in designing and building robust server-side architectures, RESTful APIs, and relational databases using PHP, Laravel, MySQL, and modern backend engineering practices.",
     statusBadge: "Available for new backend roles & projects",
-    location: "Cairo, Egypt",
+    location: "Alexandria",
     email: "mahmedhaitham@gmail.com",
     whatsapp: "https://wa.me/201012876627", // ضع رقم الواتساب الخاص بك هنا، مثال: https://wa.me/201234567890
     whatsappNumber: "+20 (WhatsApp)",
